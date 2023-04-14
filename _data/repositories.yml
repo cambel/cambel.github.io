@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cambel
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - o2ac/o2ac-ur
+  - cambel/ur3
+  - cambel/robot-learning-cl-dr
+  - cambel/ur_ikfast
